@@ -168,6 +168,7 @@ ul.primary li:hover > a{
     text-align: center;
     text-decoration: none;
     float: right;
+    background: #2B2B2B;
 }
 
 /* Add a hover effect if you want */
