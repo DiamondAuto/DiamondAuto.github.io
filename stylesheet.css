@@ -88,19 +88,14 @@ ul.primary li a:hover {
 }
 
 /*Social Media*/
-ul.socialmedia li a {
+ul.primary li a.socialmedia {
   display: block;
   padding: 20px 30px;
   border-right: none;
 }
 
-ul.socialmedia li:last-child a {
+ul.primary li:last-child a.socialmedia {
   border-right: none;
-}
-
-ul.socialmedia li a:hover {
-  
-  color: #000;
 }
 
 /* sub display*/
@@ -120,7 +115,7 @@ ul.primary li:hover a {
   color: #666;
   text-shadow: none;
 }
-ul.socialmedia li: hover a{
+ul.primary li: hover a.socialmedia{
   background: #2B2B2B;
   text-shadow:none;
 }
@@ -129,8 +124,8 @@ ul.primary li:hover > a{
   color: #000;
 } 
 
-ul.socialmedia li:hover > a{
-  color: #000;
+ul.primary li:hover > a.socialmedia{
+  color: #2B2B2B;
 }
 
 @media only screen and (max-width: 600px) {
