@@ -31,7 +31,6 @@ a {
   text-decoration: none;
   color: #fff;
   display: block;
-  border-bottom:none;
 }
 
 ul {
@@ -91,8 +90,8 @@ ul.primary li a:hover {
 /*Social Media*/
 ul.socialmedia li a {
   display: block;
-  padding: 20px 30px;
-  border-right: 1px solid #3D3D3D;
+  padding: 20px 20px;
+  border-right: none;
 }
 
 ul.socialmedia li:last-child a {
