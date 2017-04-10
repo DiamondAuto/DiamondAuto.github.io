@@ -193,4 +193,8 @@ ul.primary li:hover > a{
   left: 8px;
   right: 8px; 
   margin-bottom: 5px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
 }
