@@ -186,3 +186,9 @@ ul.primary li:hover > a{
 .fa-instagram {
     color: white;
 }
+
+.socialmedia{
+    position: absolute;
+    bottom: 0;
+  
+}
