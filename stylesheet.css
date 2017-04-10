@@ -100,7 +100,7 @@ ul.primary li:hover ul {
 }
 
 /* keeps the tab background white */
-ul.primary a.socialmedia li:hover{
+ul.primary li:hover a.socialmedia {
   background: #2B2B2B;
   text-shadow:none;
 }
