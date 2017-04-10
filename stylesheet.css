@@ -162,6 +162,7 @@ ul.primary li:hover > a{
 
 /*Awesome Font for Icons*/
 .fa {
+    position: relative;
     padding: 20px;
     font-size: 50px;
     width: 50px;
