@@ -115,7 +115,7 @@ ul.primary li:hover a {
   color: #666;
   text-shadow: none;
 }
-ul.primary li: hover a.socialmedia{
+ul.primary li:hover a.socialmedia{
   background: #2B2B2B;
   text-shadow:none;
 }
