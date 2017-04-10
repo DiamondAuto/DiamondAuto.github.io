@@ -87,6 +87,7 @@ ul.primary li a.socialmedia {
   display: block;
   padding: 20px 30px;
   border-right: none;
+  float: right;
 }
 
 ul.primary li:last-child a.socialmedia {
