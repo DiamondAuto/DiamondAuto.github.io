@@ -54,11 +54,6 @@ ul:after {
     display: table;
 }
 
-#facebook:hover{
-  background: #2B2B2B;
-}
-
-
 nav {
   position: relative;
   background: #2B2B2B;
@@ -127,7 +122,7 @@ ul.primary li:hover ul {
   display: block;
   background: #fff;
 }
-ul.socialmedia li:hover ul {
+ul.socialmedia ul {
   display: block;
   background: #2B2B2B;
 }
