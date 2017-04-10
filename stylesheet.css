@@ -119,10 +119,6 @@ ul.primary li:hover > a{
   color: #000;
 } 
 
-ul.primary li:hover > a.socialmedia{
-  color: #000;
-}
-
 @media only screen and (max-width: 600px) {
   .decor {
     padding: 3px;
