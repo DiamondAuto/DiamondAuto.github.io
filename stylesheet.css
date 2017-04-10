@@ -122,7 +122,7 @@ ul.primary li:hover ul {
   display: block;
   background: #fff;
 }
-ul.socialmedia ul {
+ul.socialmedia li:hover ul {
   display: block;
   background: #2B2B2B;
 }
