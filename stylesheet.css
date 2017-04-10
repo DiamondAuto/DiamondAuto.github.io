@@ -162,18 +162,11 @@ ul.primary li:hover > a{
 
 /*Awesome Font for Icons*/
 .fa {
-    position: absolute;
     padding: 20px;
-    font-size: 50px;
+    font-size: 30px;
     width: 50px;
     text-align: center;
     text-decoration: none;
-    float: right;
-    background: #2B2B2B;
-    background-image: -webkit-linear-gradient(bottom, #2B2B2B 7%, #333333 100%);
-    background-image: -moz-linear-gradient(bottom, #2B2B2B 7%, #333333 100%);
-    background-image: -o-linear-gradient(bottom, #2B2B2B 7%, #333333 100%);
-    background-image: linear-gradient(bottom, #2B2B2B 7%, #333333 100%);
 }
 
 /* Add a hover effect if you want */
