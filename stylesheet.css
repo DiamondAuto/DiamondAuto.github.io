@@ -87,6 +87,22 @@ ul.primary li a:hover {
   color: #000;
 }
 
+/*Social Media*/
+ul.socialmedia li a {
+  display: block;
+  padding: 20px 30px;
+  border-right: 1px solid #3D3D3D;
+}
+
+ul.socialmedia li:last-child a {
+  border-right: none;
+}
+
+ul.socialmedia li a:hover {
+  
+  color: #000;
+}
+
 /* sub display*/
 ul.primary li:hover ul {
   display: block;
