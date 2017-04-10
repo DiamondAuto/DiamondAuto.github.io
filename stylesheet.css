@@ -192,4 +192,5 @@ ul.primary li:hover > a{
   bottom: 0;
   left: 8px;
   right: 8px; 
+  margin-bottom: 8px;
 }
