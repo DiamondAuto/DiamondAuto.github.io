@@ -105,7 +105,7 @@ ul.primary li:hover ul {
 }
 
 /* keeps the tab background white */
-ul.primary li:hover a {
+ul.primary a li:hover {
   background: #fff;
   color: #666;
   text-shadow: none;
