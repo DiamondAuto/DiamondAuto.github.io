@@ -172,6 +172,7 @@ ul.primary li:hover > a{
 /* Add a hover effect if you want */
 .fa:hover {
     opacity: 0.7;
+    background: #2B2B2B;
 }
 
 /* Set a specific color for each brand */
