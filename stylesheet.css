@@ -121,6 +121,7 @@ ul.sub li a:hover {
 ul.primary li:hover ul {
   display: block;
   background: #fff;
+  padding: 10px;
 }
 ul.socialmedia li:hover ul {
   display: block;
