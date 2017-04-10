@@ -82,11 +82,6 @@ ul.primary li:last-child a {
   border-right: none;
 }
 
-ul.primary li a:hover {
-  
-  color: #000;
-}
-
 /*Social Media*/
 ul.primary li a.socialmedia {
   display: block;
