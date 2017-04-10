@@ -54,9 +54,10 @@ ul:after {
     display: table;
 }
 
-#facebook{
+#facebook:hover{
   background: #2B2B2B;
 }
+
 
 nav {
   position: relative;
