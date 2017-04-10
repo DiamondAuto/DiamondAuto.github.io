@@ -167,6 +167,7 @@ ul.primary li:hover > a{
     width: 50px;
     text-align: center;
     text-decoration: none;
+    float: left;
 }
 
 /* Add a hover effect if you want */
@@ -179,12 +180,12 @@ ul.primary li:hover > a{
 
 /* Facebook */
 .fa-facebook {
-    background: #3B5998;
+    background: #2B2B2B;
     color: white;
 }
 
 /* Twitter */
 .fa-instagram {
-    background: #55ACEE;
+    background: #2B2B2B;
     color: white;
 }
