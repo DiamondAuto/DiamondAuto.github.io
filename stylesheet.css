@@ -71,6 +71,11 @@ nav {
   border-bottom-left-radius: 8px;
 }
 
+/*  Slideshow  */
+.mySldies {
+  display: none;
+}
+
 /* prime */
 ul.primary li a {
   display: block;
