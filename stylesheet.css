@@ -3,7 +3,7 @@ div.logoHeader{
   background: black;
 }
 
-img.logoHeader{
+.logoHeader > img{
   display: block;
   margin-left: auto;
   margin-right: auto;
