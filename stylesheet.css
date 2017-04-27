@@ -51,9 +51,9 @@ li a:hover {
 
 /*Awesome Font for Icons*/
 .fa {
-    padding: 10px;
+    padding: 0;
     font-size: 50px;
-    width: 30px;
+    /*width: 30px;*/
     size: 50px;
     text-align: center;
     text-decoration: none;
