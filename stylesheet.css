@@ -1,6 +1,8 @@
 /*Background for logo*/
 .logoHeader{
   background: black;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Navigation Bar */
