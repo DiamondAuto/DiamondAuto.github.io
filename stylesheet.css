@@ -1,6 +1,7 @@
 /*Background for logo*/
 div.logoHeader{
   background: black;
+  clear: both;
 }
 
 .logoHeader > img{
