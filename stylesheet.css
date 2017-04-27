@@ -57,6 +57,7 @@ li a:hover {
     size: 100px;
     text-align: center;
     text-decoration: none;
+    float: right;
 }
 
 /* Add a hover effect if you want */
