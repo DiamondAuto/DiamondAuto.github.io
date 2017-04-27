@@ -1,5 +1,5 @@
 /*Background for logo*/
-.logoHeader{
+div.logoHeader{
   background: black;
   display: block;
   margin-left: auto;
