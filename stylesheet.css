@@ -1,3 +1,8 @@
+/*Background for logo*/
+.logoHeader{
+  background: black;
+}
+
 /* Navigation Bar */
 ul {
     list-style-type: none;
