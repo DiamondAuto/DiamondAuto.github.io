@@ -1,3 +1,8 @@
+/*body format*/
+body{
+  color: white;
+}
+
 /*Background for logo*/
 div.logoHeader{
   background: black;
