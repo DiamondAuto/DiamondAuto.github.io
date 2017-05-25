@@ -60,8 +60,8 @@ li a:hover {
 }
 
 .mySlides > div {
-  max-height: 100%;
-  max-width: 100%;
+  max-height: 600px;
+  max-width: 900px;
 }
 
 .mySlides > div > img {
