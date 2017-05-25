@@ -24,7 +24,8 @@
   <div style="background-color: #2B2B2B; height: 5px"></div>
 	</div>
     <h1 style="align: center">Contact Us</h1>
-	<div style="margin: auto; float: left">
+	<div style="margin: auto">
+		<div style="float: left">
     		<fieldset style="position: absolute">
       		<legend>Customer Information</legend>
       		First name:<br>
@@ -38,8 +39,8 @@
 		    	 Description:<br>
 	          	 <textarea style="resize: none;" cols=40 rows=10> </textarea>
     		</fieldset>
-	</div>
-		<div id="map" style="position: relative; margin: 0"></div>
+		</div>
+		<div id="map" style="float: left"></div>
     			<script>
       				function initMap() {
         				var uluru = {lat: 34.001, lng: -84.650};
@@ -55,5 +56,6 @@
     			</script>
     			<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUySg2SmrjRvVqq5LQ8Weea2PbgkJUGYM&callback=initMap">
     			</script>
+	</div>
   </body>
 </html>
