@@ -57,8 +57,18 @@ li a:hover {
 /*  Slideshow  */
 .mySldies {
   display: none;
+}
+
+.mySlides > div {
+  max-height: 100%;
+  max-width: 100%;
   height: 600px;
   width: 900px;
+}
+
+.mySlides > div > img {
+  height: 100%;
+  width: 100%;
 }
 
 /*Awesome Font for Icons*/
