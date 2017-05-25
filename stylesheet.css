@@ -60,6 +60,7 @@ li a:hover {
 }
 
 div.mySlides {
+  position: absolute;
   max-height: 100%;
   width: 800px;
   height: 500px;
