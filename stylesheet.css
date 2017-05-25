@@ -57,6 +57,8 @@ li a:hover {
 /*  Slideshow  */
 .mySldies {
   display: none;
+  height: 600px;
+  width: 900px;
 }
 
 /*Awesome Font for Icons*/
