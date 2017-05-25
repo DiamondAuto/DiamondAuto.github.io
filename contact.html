@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Diamond Auto</title>
+    <style>
+       #map {
+        height: 400px;
+        width: 100%;
+       }
+    </style>
     <link href="stylesheet.css" rel="stylesheet">
   </head>
   <body>
@@ -26,7 +31,7 @@
 	</div>
     <h1 style="align: center">Contact Us</h1>
 	<div>
-    		<fieldset style="position: center; margin-left: auto; margin-right: auto; left:0; right:0">
+    		<fieldset style="position: absolute; margin-left: auto; margin-right: auto; left:0; right:0">
       		<legend>Customer Information</legend>
       		First name:<br>
 		   	 <input type="text" value=""><br>
@@ -39,6 +44,23 @@
 		    	 Description:<br>
 	          	 <textarea style="resize: none;" cols=40 rows=10> </textarea>
     		</fieldset>
-	 </div>
+		<div id="map"></div>
+    			<script>
+      				function initMap() {
+        				var uluru = {lat: 34.001056, lng: -84.650021};
+        				var map = new google.maps.Map(document.getElementById('map'), {
+          				zoom: 4,
+          				center: uluru
+        				});
+        				var marker = new google.maps.Marker({
+          				position: uluru,
+          				map: map
+        				});
+      				}
+    			</script>
+    			<script async defer
+    			src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBueze2iFVnJ2sgr3ihb0qmzQNgFf9TzvQ&callback=initMap">
+    			</script>
+  </div>
   </body>
 </html>
