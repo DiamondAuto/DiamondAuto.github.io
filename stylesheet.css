@@ -59,7 +59,7 @@ li a:hover {
   display: none;
 }
 
-.mySlides > div {
+div.mySlides {
   max-height: 100%;
   width: 1000px;
   height: 500px;
