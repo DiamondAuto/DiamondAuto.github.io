@@ -62,13 +62,11 @@ li a:hover {
 .mySlides > div {
   max-height: 100%;
   max-width: 100%;
-  height: 500px;
-  width: 1000px;
 }
 
 .mySlides > div > img {
-  height: 100%;
-  width: 100%;
+  height: 500px;
+  width: 1000px;
 }
 
 /*Awesome Font for Icons*/
